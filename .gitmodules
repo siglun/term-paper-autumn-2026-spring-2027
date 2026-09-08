@@ -1,0 +1,8 @@
+[submodule "bib"]
+	path = bib
+	url = https://github.com/siglun/bibliographies.git
+	branch = main
+[submodule "tmac"]
+	path = tmac
+	url = https://github.com/siglun/some-useful-tmacs.git
+	branch = main
