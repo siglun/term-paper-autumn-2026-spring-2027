@@ -4,7 +4,6 @@ Introduction
 Taking Counsciouness Seriously
 .LP
 .MNinit symmetric 3c 4c 1n HR 8z 9.6p red ""
-.
 About consciousness as an \[lq]illusion\[rq]:
 .MN right
 Page xii

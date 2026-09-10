@@ -10,7 +10,7 @@ OTHERS =  ../bib/references.text ../tmac/dropcap.tmac ../tmac/mn.tmac \
 	Makefile ../tmac/fitch-macros.pic ../parameters.ms ../margin-notes.ms
 
 .ms.pdf:
-	pdfroff -U -R -sGtep   -ms -m pdfmark \
+	pdfroff -U -R -sGtep   -ms -m pdfmark -m mn \
 	-m decorations -m dropcap -M ../tmac   \
 	-k  ${PAPER} -Tps  ../parameters.ms   $<  > $*.pdf
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
