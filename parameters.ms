@@ -35,14 +35,14 @@ no-label-in-reference
 no-default-database
 move-punctuation
 date-as-label D.+yD.y%a*D.-y
-database ./bib/references.text
+database ../bib/references.text
 join-authors " and " ", " " and "
 short-label "(@|Q) ' ('(D.y%a*|D%a*)')'"
 label "(@|Q) ', ' (D.y%a*|D%a*)"
 bracket-label " (" ")" "; "
 .R2
-.so eqn-definitions.ms
-.so fitch-macros.pic
+.so ../tmac/eqn-definitions.ms
+.so ../tmac/fitch-macros.pic
 .\" fam BA
 .\" fam STIX
 .fam Brill
