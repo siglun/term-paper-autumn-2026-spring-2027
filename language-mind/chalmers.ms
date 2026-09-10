@@ -1,4 +1,8 @@
-.MNinit symmetric 3c 4c 1n HR 8z 9.6p red ""
+.so ../margin-notes.ms
 .NH 1
-David Chalmers \f[BI]The Conscious Mind\f[P]
+\f[BI]The Conscious Mind\f[P] by
+.[ 
+#
+David Chalmers 1996
+.]
 .so chalmers-01.ms

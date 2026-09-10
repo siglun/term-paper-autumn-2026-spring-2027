@@ -7,12 +7,12 @@ default: chalmers.pdf
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/
 PAPER = -dpaper=a4 -P-pa4
 OTHERS =  ../bib/references.text ../tmac/dropcap.tmac ../tmac/mn.tmac \
-	Makefile ../tmac/fitch-macros.pic ../parameters.ms 
+	Makefile ../tmac/fitch-macros.pic ../parameters.ms ../margin-notes.ms
 
 .ms.pdf:
 	pdfroff -U -R -sGtep   -ms -m pdfmark \
 	-m decorations -m dropcap -M ../tmac   \
-	-k  ${PAPER} -Tps  ../parameters.ms ../margin-notes.ms  $<  > $*.pdf
+	-k  ${PAPER} -Tps  ../parameters.ms   $<  > $*.pdf
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
 
 
