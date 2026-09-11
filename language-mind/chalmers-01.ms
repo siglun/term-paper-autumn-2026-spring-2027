@@ -35,4 +35,5 @@ The easy problems of consciousness that build  upon the assumption that it can b
 The hard problem is that those problems are insufficient for understanding the consciousness.
 These two sets of problems are on the opposite ends of a \[lq]Great Divide\[rq].
 If you hold that the answer to an easy problem explains it all,
-you will get one theory. 
+you will get one theory.
+I you base your theory on the existence of hard problems it will be very different.
