@@ -21,4 +21,16 @@ Doesn't an illusion require that there are things that are real,
 and things that just appear to be real,
 i.e.,
 those illusions.
+.PP
+Chalmers starts with three constraints
+.IP i 
+Take consciousness seriously
+.IP ii
+Take science seriously
+.IP iii
+Accept consciousness as natural phenomenon
+.PP
+Chalmers considers two problems or perhaps kinds of problems:
+The easy problems of consciousness that build  upon the assumption that it can be understood  by analysing cognition and behaviours
+The hard problem is that those problems are insufficient för understanding the consciousness.
 
