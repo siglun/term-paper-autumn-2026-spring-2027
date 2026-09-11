@@ -3,13 +3,10 @@ Introduction
 .NH 3
 Taking Counsciouness Seriously
 .LP
-.MNinit symmetric 3c 4c 1n HR 8z 9.6p red ""
+.MNinit symmetric 3c 4c 1n HR 8z 9.6p black ""
 About consciousness as an \[lq]illusion\[rq]:
 .MN right
 Page xii
-.[
-Chalmers 1996
-.]
 .MN
 .QP
 .vs 12
@@ -38,4 +35,18 @@ If you hold that the answer to an easy problem explains it all,
 you will get one theory.
 I you base your theory on the existence of hard problems it will be very different.
 .QP
+.MN right
+Page xiv
+.MN
 I argue that reductive explanations of consciousness impossible and I even argue for a form of dualism.
+But this is just a part of the scientific process.
+Certain sorts of explanation turn out to not work,
+so we need to embrace other sorts of explanation instead.
+Everything I say here is compatible with the results of contemporary science;
+our picture of the natural world is broadened, not overturned.
+.NH 2
+Foundations
+.NH 3
+Two Concepts of Mind
+.LP
+What is consciousness?
