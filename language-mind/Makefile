@@ -19,10 +19,11 @@ OTHERS =  ../bib/references.text ../tmac/dropcap.tmac ../tmac/mn.tmac \
 	Makefile ../tmac/fitch-macros.pic ../parameters.ms ../margin-notes.ms
 
 .ms.pdf:
-	pdfroff -U -R  -d BuildDate="$(BUILD_DATE)" \
+	soelim  ../parameters.ms  $< | 	pdfroff -U -R  \
+	-d BuildDate="$(BUILD_DATE)" \
 	-sGtep  -M ../tmac  -m s  -m pdfmark  -m mn \
 	-m decorations -m dropcap \
-	-k -Kutf8 ${PAPER} -Tps  ../parameters.ms $<  > $*.pdf
+	-k -Kutf8 ${PAPER} -Tps -  > $*.pdf
 	pdftotext $*.pdf ; wc -w $*.txt ; rm  $*.txt
 
 clean:
