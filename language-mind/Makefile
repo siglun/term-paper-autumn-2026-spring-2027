@@ -12,7 +12,7 @@ OTHERS =  ../bib/references.text ../tmac/dropcap.tmac ../tmac/mn.tmac \
 .ms.pdf:
 	pdfroff -U -R -sGtep   -ms -m pdfmark -m mn \
 	-m decorations -m dropcap -M ../tmac   \
-	-k  ${PAPER} -Tps  ../parameters.ms   $<  > $*.pdf
+	-k -Kutf8  ${PAPER} -Tps  ../parameters.ms   $<  > $*.pdf
 	pdftotext $*.pdf ; wc -c $*.txt ; rm  $*.txt
 
 

@@ -23,14 +23,13 @@ i.e.,
 those illusions.
 .PP
 Chalmers starts with three constraints
-.IP i 
+.IP a. 
 Take consciousness seriously
-.IP ii
+.IP b.
 Take science seriously
-.IP iii
+.IP c.
 Accept consciousness as natural phenomenon
 .PP
 Chalmers considers two problems or perhaps kinds of problems:
-The easy problems of consciousness that build  upon the assumption that it can be understood  by analysing cognition and behaviours
-The hard problem is that those problems are insufficient för understanding the consciousness.
-
+The easy problems of consciousness that build  upon the assumption that it can be understood  by analysing cognition and behaviours.
+The hard problem is that those problems are insufficient for understanding the consciousness.
