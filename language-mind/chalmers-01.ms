@@ -37,3 +37,5 @@ These two sets of problems are on the opposite ends of a \[lq]Great Divide\[rq].
 If you hold that the answer to an easy problem explains it all,
 you will get one theory.
 I you base your theory on the existence of hard problems it will be very different.
+.QP
+I argue that reductive explanations of consciousness impossible and I even argue for a form of dualism.
