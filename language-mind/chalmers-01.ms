@@ -75,3 +75,13 @@ Page 11
 On the phenomenal concept,
 mind is characterised by the way it feels;
 on the psychological by what it does.
+.LP
+.MN right
+Page 16
+.MN
+.QP
+.vs 12
+.ps 10
+At a first approximation, 
+phenomenal concepts deal with the first-person aspects of mind,
+and psychological concepts deal with the third person aspects.
