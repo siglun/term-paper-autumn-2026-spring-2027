@@ -49,3 +49,18 @@ Foundations
 Two Concepts of Mind
 .LP
 What is consciousness?
+.PP
+.MN right
+Page 4
+.MN
+Chalmers don't use any definition of his own.
+His definition is formulated through
+.[ 
+#
+Thomas Nagel Bat
+.]
+.QP
+.vs 12
+.ps 10
+We can say that a being is is conscious if there is \f[I]something it is like\f[P] to be that being.
+.LP
