@@ -49,3 +49,16 @@ Foundations
 Two Concepts of Mind
 .LP
 What is consciousness?
+.NH 3
+Phenomenal and Psychological 
+.LP
+.MN right
+Page 11
+.MN
+.QP
+.vs 12
+.ps 10
+On the phenomenal concept,
+mind is characterised by the way it feels;
+on the psychological by what it does.
+
