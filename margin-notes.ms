@@ -13,5 +13,3 @@
 .  pg@end-text@orig
 ..
 .
-
-
