@@ -90,3 +90,14 @@ Page 16
 At a first approximation, 
 phenomenal concepts deal with the first-person aspects of mind,
 and psychological concepts deal with the third person aspects.
+.NH 3
+The double life of mental terms
+.LP
+.MN right 
+Page 18
+.MN
+.QP
+.vs 12
+.ps 10
+A good test for whether a mental notion $M$ is primarily psychological is to ask oneself:
+Could something be an instance of $M$ without any particular associated phenomenal quality?
