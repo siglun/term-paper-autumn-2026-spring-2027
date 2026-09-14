@@ -101,3 +101,34 @@ Page 18
 .ps 10
 A good test for whether a mental notion $M$ is primarily psychological is to ask oneself:
 Could something be an instance of $M$ without any particular associated phenomenal quality?
+.NH 3
+The two mind-body problems
+.LP
+.MN right
+Page 24
+.MN
+The fact that we have have two kinds of mental properties has consequences.
+.QP
+.vs 12
+.ps 10
+[...] effect of dividing the mind-body problem into two: an easy part and a hard part.
+The psychological aspects of mind pose many problems for cognitive science [...] but they pose no deep metaphysical enigmas.
+.LP
+Learning and memory are functions that belong to the easy ones.
+They might be connected with enormous technical problems,
+but hardly any metaphysical ones.
+They are \[oq]puzzles\[cq] not \[oq]mysteries\[cq].
+.QP
+.MN right
+Page 25
+.MN
+.vs 12
+.ps 10
+The phenomenal aspects of mind are a different matter.
+Here,
+the mind-body problem is as baffling as it ever was.
+The impressive progress of the physical and cognitive sciences has not shed significant light on the question of how and why cognitive functioning is accompanied by conscious experience.
+The progress in the understanding of the mind has almostentirely centered on the explanation of behaviour.
+This progress leaves the question of consious experience untouched.
+.LP
+Chalmers refers to this problem as the mind-mind problem.
