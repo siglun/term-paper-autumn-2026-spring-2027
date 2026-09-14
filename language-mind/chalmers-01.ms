@@ -132,3 +132,18 @@ The progress in the understanding of the mind has almostentirely centered on the
 This progress leaves the question of consious experience untouched.
 .LP
 Chalmers refers to this problem as the mind-mind problem.
+.NH 3
+Explaining consciousness versus explaining awareness
+.LP
+.MN right
+Page 31
+.MN
+Finally Chalmers simplifies his vocabulary
+.QP
+.vs 12
+.ps 10
+In what follows,
+I revert to using \[oq]consciusness\[cq] to refer to phenomenal conciousness alone.
+When I wish to use the psychological notions,
+I will speak of \[oq]psychological consciousness\[cq] or \[oq]awareness.\[cq]
+It is phenomenal consciusness with which I will mostly be concerned.
