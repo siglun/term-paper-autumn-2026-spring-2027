@@ -76,6 +76,11 @@ On the phenomenal concept,
 mind is characterised by the way it feels;
 on the psychological by what it does.
 .LP
+.MN right 
+Page 14\[en]15
+.MN
+Functionalism include groups of positions sharing the idea that there exist mental states that cause behaviours.
+.LP
 .MN right
 Page 16
 .MN
