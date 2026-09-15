@@ -208,3 +208,13 @@ on A-properties if no two logically \f[I]possible situations\f[P] are identical 
 .LP
 Hence, logical supervenience is not defined in terms of deducabilityh in any system of formal logic,
 what matters is logically possible worlds (or situations).
+.LP
+.MN right
+Page 36
+.MN
+Then we have natural supervenience,
+which poses much more stringent conditions.
+.QP
+.vs 12
+.ps 10
+In general, B-properties supervene naturally on A-properties if any two naturally possible situations with the same A-properties have the same B-properties.
