@@ -132,3 +132,22 @@ The progress in the understanding of the mind has almostentirely centered on the
 This progress leaves the question of consious experience untouched.
 .LP
 Chalmers refers to this problem as the mind-mind problem.
+.NH 2
+Supervenience and Explanation
+.NH 3
+Supervenience
+.QP
+.MN right
+Page 33
+.MN
+.vs 12
+.ps 10
+The
+.I A-facts
+and
+.I B-facts
+about the world are the facts concerning the instantiation and distribution of A-properties and B-properties. [...]
+The template for the definition of supervenience is the following:
+B-properties
+.I supervene 
+on A-properties if no two possible with respect to their A-properties while differing  in their B-properties.
