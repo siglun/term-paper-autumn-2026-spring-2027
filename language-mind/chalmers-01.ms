@@ -176,7 +176,7 @@ Page 33\[en]34
 .ps 10
 B-properties supervene
 .I locally
-on A-properties oif thje A-åroperties of an
+on A-properties if the A-properties of an
 .I individual
 determine the B-properties of that individual.
 .LP
@@ -199,3 +199,9 @@ but differing with respect to their B-properties.
 Page 34\[en]35
 .MN
 \f[BI]Logical and natural supervenience\f[P]
+.QP
+.vs 12
+.ps 10
+B-properties supervene
+.I logically
+on A-properties if no two logically \f[I]possible situations\f[P] are identical with respect to their A-properties but distinct with respect to their B-properties.
