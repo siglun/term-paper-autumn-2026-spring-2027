@@ -147,3 +147,55 @@ I revert to using \[oq]consciusness\[cq] to refer to phenomenal conciousness alo
 When I wish to use the psychological notions,
 I will speak of \[oq]psychological consciousness\[cq] or \[oq]awareness.\[cq]
 It is phenomenal consciusness with which I will mostly be concerned.
+.NH 2
+Supervenience and Explanation
+.NH 3
+Supervenience
+.QP
+.MN right
+Page 33
+.MN
+.vs 12
+.ps 10
+The
+.I A-facts
+and
+.I B-facts
+about the world are the facts concerning the instantiation and distribution of A-properties and B-properties. [...]
+The template for the definition of supervenience is the following:
+B-properties
+.I supervene 
+on A-properties if no two possible with respect to their A-properties while differing  in their B-properties.
+.LP
+.MN right
+Page 33\[en]34
+.MN
+\f[BI]Local and global supervenience\f[P] \[em]
+.QP
+.vs 12
+.ps 10
+B-properties supervene
+.I locally
+on A-properties oif thje A-åroperties of an
+.I individual
+determine the B-properties of that individual.
+.LP
+.MN right
+Page 34
+.MN
+Chalmers understands \[oq]global\[cq] as \[oq]an entire universe\[cq]
+.QP
+.vs 12
+.ps 10
+B-properties supervenes globally on A-properties,
+by contrast,
+if the A-facts of the entire
+.I world
+determines the the B-facts:
+if there are no two possible worlds identical with respect to A-properties,
+but differing with respect to their B-properties.
+.LP
+.MN right
+Page 34\[en]35
+.MN
+\f[BI]Logical and natural supervenience\f[P]
