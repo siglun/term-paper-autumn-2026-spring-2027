@@ -205,3 +205,6 @@ Page 34\[en]35
 B-properties supervene
 .I logically
 on A-properties if no two logically \f[I]possible situations\f[P] are identical with respect to their A-properties but distinct with respect to their B-properties.
+.LP
+Hence, logical supervenience is not defined in terms of deducabilityh in any system of formal logic,
+what matters is logically possible worlds (or situations).
