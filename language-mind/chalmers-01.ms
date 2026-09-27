@@ -5,7 +5,7 @@ Taking Counsciouness Seriously
 .LP
 About consciousness as an \[lq]illusion\[rq]:
 .MN right
-Page xii
+p. xii
 .MN
 .QP
 .vs 12
@@ -35,7 +35,7 @@ you will get one theory.
 I you base your theory on the existence of hard problems it will be very different.
 .QP
 .MN right
-Page xiv
+p. xiv
 .MN
 I argue that reductive explanations of consciousness impossible and I even argue for a form of dualism.
 But this is just a part of the scientific process.
@@ -51,7 +51,7 @@ Two Concepts of Mind
 What is consciousness?
 .PP
 .MN right
-Page 4
+p. 4
 .MN
 Chalmers don't use any definition of his own.
 His definition is formulated through
@@ -67,7 +67,7 @@ We can say that a being is is conscious if there is \f[I]something it is like\f[
 Phenomenal and Psychological 
 .LP
 .MN right
-Page 11
+p. 11
 .MN
 .QP
 .vs 12
@@ -77,12 +77,12 @@ mind is characterised by the way it feels;
 on the psychological by what it does.
 .LP
 .MN right 
-Page 14\[en]15
+p. 14\[en]15
 .MN
 Functionalism include groups of positions sharing the idea that there exist mental states that cause behaviours.
 .LP
 .MN right
-Page 16
+p. 16
 .MN
 .QP
 .vs 12
@@ -94,7 +94,7 @@ and psychological concepts deal with the third person aspects.
 The double life of mental terms
 .LP
 .MN right 
-Page 18
+p. 18
 .MN
 .QP
 .vs 12
@@ -105,7 +105,7 @@ Could something be an instance of $M$ without any particular associated phenomen
 The two mind-body problems
 .LP
 .MN right
-Page 24
+p. 24
 .MN
 The fact that we have have two kinds of mental properties has consequences.
 .QP
@@ -120,7 +120,7 @@ but hardly any metaphysical ones.
 They are \[oq]puzzles\[cq] not \[oq]mysteries\[cq].
 .QP
 .MN right
-Page 25
+p. 25
 .MN
 .vs 12
 .ps 10
@@ -136,7 +136,7 @@ Chalmers refers to this problem as the mind-mind problem.
 Explaining consciousness versus explaining awareness
 .LP
 .MN right
-Page 31
+p. 31
 .MN
 Finally Chalmers simplifies his vocabulary
 .QP
@@ -153,7 +153,7 @@ Supervenience and Explanation
 Supervenience
 .QP
 .MN right
-Page 33
+p. 33
 .MN
 .vs 12
 .ps 10
@@ -168,7 +168,7 @@ B-properties
 on A-properties if no two possible with respect to their A-properties while differing  in their B-properties.
 .LP
 .MN right
-Page 33\[en]34
+p. 33\[en]34
 .MN
 \f[BI]Local and global supervenience\f[P] \[em]
 .QP
@@ -181,7 +181,7 @@ on A-properties if the A-properties of an
 determine the B-properties of that individual.
 .LP
 .MN right
-Page 34
+p. 34
 .MN
 Chalmers understands \[oq]global\[cq] as \[oq]an entire universe\[cq]
 .QP
@@ -196,7 +196,7 @@ if there are no two possible worlds identical with respect to A-properties,
 but differing with respect to their B-properties.
 .LP
 .MN right
-Page 34\[en]35
+p. 34\[en]35
 .MN
 \f[BI]Logical and natural supervenience\f[P]
 .QP
@@ -210,7 +210,7 @@ Hence, logical supervenience is not defined in terms of deducabilityh in any sys
 what matters is logically possible worlds (or situations).
 .LP
 .MN right
-Page 36
+p. 36
 .MN
 Then we have natural supervenience,
 which poses much more stringent conditions.
@@ -218,3 +218,71 @@ which poses much more stringent conditions.
 .vs 12
 .ps 10
 In general, B-properties supervene naturally on A-properties if any two naturally possible situations with the same A-properties have the same B-properties.
+.LP
+.MN right
+p. 56
+.MN
+\f[BI]A posteriori necessity\f[P]
+.QP
+.vs 12
+.ps 10
+On the traditional view of refernce derived from Frege although cloaked here in modern terminology, a concept determines a function $f: W -> R$ from possible worlds to referents.
+Such a function is ofthen called an
+.I intension ;
+together with a specification of a world $w$,
+it determines am extension $f(w)$.
+.LP
+Excercise to self:
+How does this relate to the canonical example with the planet Venus and the two celestial bodies Morning start and Evening star (Phosphorus and Hesperus, respectively)?
+.LP
+Claude explains:
+.QP
+.vs 12
+.ps 10
+Start with Frege's original problem.
+\[oq]Hesperus is Phosphorus\[cq] and \[oq]Hesperus is Hesperus\[cq] both have the same referent on each side, yet the first was an astronomical discovery and the second is trivial.
+Frege's answer was that the two names have the same Bedeutung (Venus) but different Sinn — different modes of presentation, roughly \[oq]the body visible in the evening sky\[cq] and \[oq]the body visible in the morning sky.\[cq]
+The modernised version in your quote replaces the sense with a function $f : W → R$.
+The two names get different intensions: in a world where the evening body and the morning body are two different planets, the functions deliver different objects.
+They coincide at the actual world, $f(a) =$ Venus for both, which is why the identity is true, but they differ elsewhere, which is why it is informative. The extension is just what you get by feeding in a particular world.
+.QP
+.vs 12
+.ps 10
+That is tidy, and then Kripke ruins it.
+Names are rigid designators: \[oq]Hesperus\[cq] picks out Venus in every world where Venus exists, whatever is hanging in that world's evening sky.
+So \[oq]Hesperus is Phosphorus,\[cq] if true, is necessarily true — a posteriori, but necessary.
+On the rigid reading, both names determine the same function, the constant function to Venus.
+And now the single $f$ can no longer do Frege's job at all:
+two expressions with identical intensions ought to be trivially intersubstitutable and their identity knowable a priori, which it plainly isn't.
+.LP
+.MN right
+p. 57
+.MN
+Chalmers explains this
+.QP
+.vs 12
+.ps 10
+Kripke's insight can be expressed by saying that there are in fact
+.I two
+intensions associated with a given concept.
+That is, there are two quite distinct patterns of dependence of the referent of a concept on the state of the world.
+First,
+there is the dependence by which reference is fixed in the
+.I actual world,
+depending on how the world turns out:
+if it turns out one way,
+a concept will pick out one thing,
+but if it turns out another way,
+the concept with pick out something else.
+Second,
+there is the dependence by which reference in
+.I counterfactual
+worlds is determined,
+given that reference in the actual world is already fixed.
+Corresponding to each of these dependencies is an intension,
+which I will call
+.I primary
+and
+.I secondary
+intensions respectively.
+	
