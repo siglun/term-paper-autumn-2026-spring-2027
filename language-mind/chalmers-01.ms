@@ -268,7 +268,8 @@ intensions associated with a given concept.
 That is, there are two quite distinct patterns of dependence of the referent of a concept on the state of the world.
 First,
 there is the dependence by which reference is fixed in the
-.I actual world,
+.I actual
+world,
 depending on how the world turns out:
 if it turns out one way,
 a concept will pick out one thing,
@@ -285,4 +286,3 @@ which I will call
 and
 .I secondary
 intensions respectively.
-	
