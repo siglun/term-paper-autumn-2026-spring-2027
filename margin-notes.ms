@@ -1,3 +1,4 @@
+.rn pg@top pg@top@orig
 .de pg@top
 .  pg@top@orig
 .  MNtop
