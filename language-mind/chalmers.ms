@@ -1,5 +1,5 @@
 .so ../margin-notes.ms
-.MNinit symmetric 3c 4c 1n HR 8z 9.6p black ""
+.MNinit symmetric 3c 4c 1n BrillR 8z 9.6p black ""
 .NH 1
 \f[BI]The Conscious Mind\f[P] by
 .[ 

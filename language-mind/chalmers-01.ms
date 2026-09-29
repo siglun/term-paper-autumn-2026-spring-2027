@@ -242,7 +242,7 @@ Claude explains:
 Start with Frege's original problem.
 \[oq]Hesperus is Phosphorus\[cq] and \[oq]Hesperus is Hesperus\[cq] both have the same referent on each side, yet the first was an astronomical discovery and the second is trivial.
 Frege's answer was that the two names have the same Bedeutung (Venus) but different Sinn — different modes of presentation, roughly \[oq]the body visible in the evening sky\[cq] and \[oq]the body visible in the morning sky.\[cq]
-The modernised version in your quote replaces the sense with a function $f : W → R$.
+The modernised version in your quote replaces the sense with a function $f : W -> R$.
 The two names get different intensions: in a world where the evening body and the morning body are two different planets, the functions deliver different objects.
 They coincide at the actual world, $f(a) =$ Venus for both, which is why the identity is true, but they differ elsewhere, which is why it is informative. The extension is just what you get by feeding in a particular world.
 .QP
@@ -286,3 +286,4 @@ which I will call
 and
 .I secondary
 intensions respectively.
+.LP

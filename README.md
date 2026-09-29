@@ -20,3 +20,8 @@ or
 
 	git clone --recurse-submodules https://github.com/siglun/term-paper-autumn-2026-spring-2027.git
 
+pull bib and tmac
+
+    git submodule update --remote bib
+    git submodule update --remote tmac
+	
