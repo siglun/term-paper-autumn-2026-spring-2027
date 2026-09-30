@@ -4,10 +4,20 @@ ifneq ($(wildcard /usr/local/bin/groff),)
     export GROFF_BIN_PATH := /usr/local/bin
 endif
 
+
+
 .SUFFIXES: .pic .ms .pdf .ps .eps 
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf
 
 default: chalmers.pdf 
+
+BIB := ../bib
+
+$(BIB)/bibliography.i: FORCE
+	$(MAKE) -C $(BIB)
+
+FORCE:
+
 
 # Capture the last commit date, or current date if changes are uncommitted
 BUILD_DATE := $(shell date "+%Y-%m-%d %H:%M")
@@ -15,7 +25,7 @@ GIT_COMMIT := $(shell git rev-parse --short HEAD 2>/dev/null || echo "unknown")
 
 URI = https://github.com/siglun/term-paper-spring-2026/blob/main/
 PAPER = -dpaper=a4 -P-pa4
-OTHERS =  ../bib/references.text ../tmac/dropcap.tmac ../tmac/mn.tmac \
+OTHERS =  ../bib/bibliography.i ../tmac/dropcap.tmac ../tmac/mn.tmac \
 	Makefile ../tmac/fitch-macros.pic ../parameters.ms ../margin-notes.ms
 
 .ms.pdf:
