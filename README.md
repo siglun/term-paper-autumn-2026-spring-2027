@@ -12,13 +12,15 @@ Stuff for my postgraduate studies in theoretical philosophy.
 
 # submodules
 
-Clone with
+Clone with ssh
 
     git clone --recurse-submodules git@github.com:siglun/term-paper-autumn-2026-spring-2027.git
 	
-or
+or https
 
 	git clone --recurse-submodules https://github.com/siglun/term-paper-autumn-2026-spring-2027.git
+	
+If are uncertain use https	
 
 pull bib and tmac
 
